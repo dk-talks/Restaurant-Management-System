@@ -1,2 +1,7 @@
-package Models;public enum DishType {
+package Models;
+
+public enum DishType {
+    VEG,
+    NON_VEG,
+    VEGAN
 }

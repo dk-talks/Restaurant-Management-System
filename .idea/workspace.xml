@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ac5a7d1-7081-4a5e-b278-d21e6e129a44" name="Changes" comment="" />
+    <list default="true" id="2ac5a7d1-7081-4a5e-b278-d21e6e129a44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ChefLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Cuisine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Ingridient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/IngridientMeasurementUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/IngridientViscocity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/WaiterLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/DishType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/DishType.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dk-talks"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dk-talks/Restaurant-Management-System.git",
+    "accountId": "85b05da4-5d9d-4db2-adc8-fb87e7260006"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -23,7 +61,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
