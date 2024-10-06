@@ -9,6 +9,15 @@ public class Dish extends BaseModel{
     private DishType dishType;
     private String reciepie;
     private List<Ingridient> ingridientList;
+    private Menu menu;
+
+    public Menu getMenu() {
+        return menu;
+    }
+
+    public void setMenu(Menu menu) {
+        this.menu = menu;
+    }
 
     public String getName() {
         return name;
